@@ -1,0 +1,20 @@
+/*-----Font Styles-----*/
+.txt-sm {font-size: 1.2rem;}
+.txt-md {font-size: 1.4rem;}
+.txt-lg {font-size: 2.0rem;}
+
+.txt-red {color: #dc3545;}
+.txt-white {color: #fff;}
+
+.txt-ctr {text-align: center;}
+
+/*-----Container Styles-----*/
+.bg-red {background-color: #dc3545;}
+.bg-white {background-color: #fff;}
+.bg-yellow {background-color: rgb(243, 243, 156);}
+
+.pad-lt {padding: 5px;}
+.pad-rg {padding: 10px;}
+.pad-hv {padding: 20px;}
+
+.bdr-lt {border: 1px solid darkgray;}

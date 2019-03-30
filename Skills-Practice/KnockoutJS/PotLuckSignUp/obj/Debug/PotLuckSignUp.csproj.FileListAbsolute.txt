@@ -1,0 +1,16 @@
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\PotLuckSignUp.dll.config
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\PotLuckSignUp.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\PotLuckSignUp.pdb
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\Newtonsoft.Json.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Net.Http.Formatting.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Web.Http.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Web.Http.WebHost.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\Newtonsoft.Json.xml
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Net.Http.Formatting.xml
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Web.Http.xml
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\bin\System.Web.Http.WebHost.xml
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\obj\Debug\PotLuckSignUp.csprojAssemblyReference.cache
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\obj\Debug\PotLuckSignUp.csproj.CoreCompileInputs.cache
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\obj\Debug\PotLuckSignUp.csproj.CopyComplete
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\obj\Debug\PotLuckSignUp.dll
+C:\Users\kcray\source\repos\kcraych\Tech-Academy-Assignments\SPA Assignment - Super Bowl Potluck Signup\PotLuckSignUp\PotLuckSignUp\obj\Debug\PotLuckSignUp.pdb

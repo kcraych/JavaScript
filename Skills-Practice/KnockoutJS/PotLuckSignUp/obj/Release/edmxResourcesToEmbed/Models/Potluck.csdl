@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PotlucksModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PotluckItem">
+    <Key>
+      <PropertyRef Name="ItemId" />
+    </Key>
+    <Property Name="ItemId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PotluckId" Type="Int32" Nullable="false" />
+    <Property Name="GuestName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ItemDesc" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="ItemQty" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Potluck">
+    <Key>
+      <PropertyRef Name="PotluckId" />
+    </Key>
+    <Property Name="PotluckId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PotluckName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PotluckRemoved" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="PotlucksEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PotluckItems" EntityType="Self.PotluckItem" />
+    <EntitySet Name="Potlucks" EntityType="Self.Potluck" />
+  </EntityContainer>
+</Schema>

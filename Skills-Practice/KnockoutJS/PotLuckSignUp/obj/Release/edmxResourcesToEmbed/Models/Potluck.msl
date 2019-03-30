@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PotlucksModelStoreContainer" CdmEntityContainer="PotlucksEntities">
+    <EntitySetMapping Name="PotluckItems">
+      <EntityTypeMapping TypeName="PotlucksModel.PotluckItem">
+        <MappingFragment StoreEntitySet="PotluckItems">
+          <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+          <ScalarProperty Name="PotluckId" ColumnName="PotluckId" />
+          <ScalarProperty Name="GuestName" ColumnName="GuestName" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ItemDesc" ColumnName="ItemDesc" />
+          <ScalarProperty Name="ItemQty" ColumnName="ItemQty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Potlucks">
+      <EntityTypeMapping TypeName="PotlucksModel.Potluck">
+        <MappingFragment StoreEntitySet="Potlucks">
+          <ScalarProperty Name="PotluckId" ColumnName="PotluckId" />
+          <ScalarProperty Name="PotluckName" ColumnName="PotluckName" />
+          <ScalarProperty Name="PotluckRemoved" ColumnName="PotluckRemoved" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

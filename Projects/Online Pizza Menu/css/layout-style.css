@@ -1,0 +1,33 @@
+body, p, ul, li {
+    box-sizing: border-box;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+section {
+    margin-bottom: 15px;
+}
+
+.container-full {
+    background: url("../img/bg-pizza.jpg");
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.container-main {
+    max-width: 700px;
+    border-radius: 1%;
+    margin: auto;
+    padding: 20px;
+}
+
+.container-selections {
+    max-width: 550px;
+    position: relative;
+    margin: auto;
+  }
+
+.container-summary{
+    margin: auto;
+}

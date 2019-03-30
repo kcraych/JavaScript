@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="./css/layout-style.css">
+        <link rel="stylesheet" href="./css/theme-style.css">
+        <link rel="stylesheet" href="./css/index-style.css">
+
+        <title>Everyone loves PIZZA!</title>
+    </head>
+
+    <body>
+        <div class="container-full">
+
+            <!-- Jumbotron -->
+            <section class="bg-red txt-white txt-ctr pad-hv">
+                <p class="txt-lg">Welcome to the BUILD YOUR OWN PIZZA bonanza!!</p>
+            </section>
+            <!-- /Jumbotron -->
+
+            <div class="container-main bg-yellow">
+
+                <!-- Carousel container -->
+                <div class="container-selections">
+
+                    <!-- Next and previous buttons -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                    <!-- /Next and previous buttons -->
+
+                </div>
+                <!-- /Carousel Container -->
+
+                <br>
+                
+                <!-- The dots/circles -->
+                <div class="dot-group" style="text-align:center"></div>
+                <!-- /The dots/circles -->
+
+                <!-- Running Receipt Summary -->
+                <div class="container-summary">
+                    <div class="running-receipt bg-white bdr-lt">
+                        
+                        <!--Summary Title-->
+                        <div class="bg-red txt-white txt-sm txt-ctr pad-rg bdr-lt">
+                            <p>Your Order Summary</p>
+                        </div>
+                        <!--/Summary Title-->
+
+                        <!--Summary Total Cost-->
+                        <div class="total-cost bg-red txt-white txt-sm txt-ctr pad-lt bdr-lt"></div>
+                        <!--Summary Total Cost-->
+                    </div>
+
+                    <br>
+                    <!--Submit Button-->
+                    <div class='submit-section'>
+                        <button class="submit-button bg-red txt-white txt-sm pad-lt">Submit Order!</button>
+                    </div>
+                    <!--/Submit Button-->
+
+                </div>
+                <!-- /Running Receipt Summary -->
+
+            </div>
+        </div>
+
+        <!-- jQuery, JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="./js/load-page.js"></script>
+        <script src="./js/index-js.js"></script>
+
+    </body>
+</html>
